@@ -1,0 +1,14 @@
+﻿# Bỏ qua thư mục vs (chứa FileContentIndex gây lỗi trước đó)
+vs/
+
+# Bỏ qua các file tạm của Visual Studio
+*.vsidx
+*.suo
+*.user
+
+# Bỏ qua thư mục bin và obj
+bin/
+obj/
+
+# Bỏ qua file cấu hình cá nhân
+*.csproj.user
