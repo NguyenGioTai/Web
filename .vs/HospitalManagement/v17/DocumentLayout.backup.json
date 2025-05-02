@@ -1,48 +1,304 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\",
+  "WorkspaceRootPath": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\userverificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\userverificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\areas\\admin\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\recordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\recordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\patientrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\patientrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\patientdoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\patientdoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\medicalsupplyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\medicalsupplyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\facultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\facultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\doctorschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\doctorschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\detailrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\detailrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\detailprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\detailprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\attachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\attachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\attachmentassignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\attachmentassignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\persistence\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\persistence\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\migrations\\202108220931352_new_article_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\migrations\\202108220931352_new_article_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\migrations\\202108150916054_init database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\migrations\\202108150916054_init database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\entity\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\entity\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\entity\\detailprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\entity\\detailprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\dbcontext\\patientmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\dbcontext\\patientmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.utils\\variableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.utils\\variableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.utils\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.utils\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.utils\\mailutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.utils\\mailutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.utils\\cryptorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.utils\\cryptorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.utils\\codeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.utils\\codeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.entity\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.entity\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\entity\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\entity\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.entity\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.entity\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.entity\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.entity\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.entity\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.entity\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\models\\moviecalendarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\models\\moviecalendarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\models\\moviecalendardtoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\models\\moviecalendardtoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\areas\\admin\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\areas\\admin\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\areas\\admin\\controllers\\patientrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\patientrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\patientrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\nguyen\\web\\qlpk\\qlpk\\qlpk\\source\\hospitalmanagement\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\medicalsupplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\medicalsupplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\hospitalmanagement\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\doctorschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\doctorschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\authorization\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\authorization\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\authorization\\cookiesmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\authorization\\cookiesmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.entity\\repositories\\ifacultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.entity\\repositories\\ifacultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.entity\\repositories\\idetailrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.entity\\repositories\\idetailrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\belibrary\\core.entity\\repositories\\idetailprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A12BEB-3EA8-448A-BE64-F67242449103}|BELibrary\\BELibrary.csproj|solutionrelative:belibrary\\core.entity\\repositories\\idetailprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|c:\\thi cu\u1ED1i m\u00F4n\\webbb\\hospitalmanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3085D9E7-2072-4E1F-A0D2-8787468F8666}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -51,118 +307,958 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\.gitignore",
-              "RelativeDocumentMoniker": "HospitalManagement\\.gitignore",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\.gitignore",
-              "RelativeToolTip": "HospitalManagement\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-22T08:47:31.999Z",
+              "Title": "UserVerificationRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\UserVerificationRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\UserVerificationRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\UserVerificationRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\UserVerificationRepository.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:13:37.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StatisticalController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Title": "RecordRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\RecordRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\RecordRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\RecordRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\RecordRepository.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:34:20.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecordController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAADwv+4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:33:05.603Z",
+              "WhenOpened": "2025-05-02T17:13:00.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAADwv6EAAAAAAAAAAAAAAA==",
+              "Title": "PrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\PrescriptionRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PrescriptionRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\PrescriptionRepository.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:31:11.013Z",
+              "WhenOpened": "2025-05-02T17:12:49.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PrescriptionController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAuwKYAAAAAAAAAAAAAAA==",
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PatientRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\PatientRepository.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:28:58.623Z",
+              "WhenOpened": "2025-05-02T17:12:38.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PatientRecordController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
-              "ViewState": "AgIAAPsAAAAAAAAAAAAuwDsBAAAAAAAAAAAAAA==",
+              "Title": "PatientRecordRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PatientRecordRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\PatientRecordRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PatientRecordRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\PatientRecordRepository.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:24:31.385Z",
+              "WhenOpened": "2025-05-02T17:12:26.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAAgAAAAAAAAAA==",
+              "Title": "PatientDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PatientDoctorRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\PatientDoctorRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\PatientDoctorRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\PatientDoctorRepository.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:23:19.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:58:14.061Z",
+              "WhenOpened": "2025-05-02T17:12:15.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Nguyen\\web\\QLPK\\QLPK\\QLPK\\Source\\HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Title": "MedicineRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\MedicineRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\MedicineRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\MedicineRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\MedicineRepository.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T00:52:27.009Z",
+              "WhenOpened": "2025-05-02T17:12:03.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\ItemRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\ItemRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:11:39.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DoctorScheduleRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\DoctorScheduleRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DoctorScheduleRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\DoctorScheduleRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:10:58.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DoctorRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\DoctorRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:10:27.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailRecordRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DetailRecordRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\DetailRecordRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DetailRecordRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\DetailRecordRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:10:16.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetailPrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DetailPrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\DetailPrescriptionRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\DetailPrescriptionRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\DetailPrescriptionRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:10:04.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\CategoryRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\CategoryRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:09:50.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AttachmentRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\AttachmentRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\AttachmentRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\AttachmentRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\AttachmentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:09:37.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AttachmentAssignRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\AttachmentAssignRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\AttachmentAssignRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\AttachmentAssignRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\AttachmentAssignRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:09:25.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\ArticleRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\ArticleRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:09:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Migrations\\Configuration.cs*",
+              "RelativeToolTip": "BELibrary\\Migrations\\Configuration.cs*",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAQwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:08:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "202108220931352_New_Article_table.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Migrations\\202108220931352_New_Article_table.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Migrations\\202108220931352_New_Article_table.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Migrations\\202108220931352_New_Article_table.cs*",
+              "RelativeToolTip": "BELibrary\\Migrations\\202108220931352_New_Article_table.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:59.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "BELibrary\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:36.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "202108150916054_Init database.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Migrations\\202108150916054_Init database.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Migrations\\202108150916054_Init database.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Migrations\\202108150916054_Init database.cs*",
+              "RelativeToolTip": "BELibrary\\Migrations\\202108150916054_Init database.cs*",
+              "ViewState": "AgIAAJABAAAAAAAAAAAQwKUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Patient.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Entity\\Patient.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Patient.cs",
+              "RelativeToolTip": "BELibrary\\Entity\\Patient.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Faculty.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Entity\\Faculty.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Faculty.cs",
+              "RelativeToolTip": "BELibrary\\Entity\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Doctor.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Entity\\Doctor.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Doctor.cs",
+              "RelativeToolTip": "BELibrary\\Entity\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:28.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DetailPrescription.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\DetailPrescription.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Entity\\DetailPrescription.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\DetailPrescription.cs",
+              "RelativeToolTip": "BELibrary\\Entity\\DetailPrescription.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:24.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\AccountRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\AccountRepository.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:04:34.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VariableExtensions.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\VariableExtensions.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Utils\\VariableExtensions.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\VariableExtensions.cs",
+              "RelativeToolTip": "BELibrary\\Core.Utils\\VariableExtensions.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAowF4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:02:48.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\StringHelper.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Utils\\StringHelper.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\StringHelper.cs",
+              "RelativeToolTip": "BELibrary\\Core.Utils\\StringHelper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:02:37.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MailUtils.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\MailUtils.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Utils\\MailUtils.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\MailUtils.cs",
+              "RelativeToolTip": "BELibrary\\Core.Utils\\MailUtils.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:02:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CryptorEngine.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\CryptorEngine.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Utils\\CryptorEngine.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\CryptorEngine.cs",
+              "RelativeToolTip": "BELibrary\\Core.Utils\\CryptorEngine.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:02:18.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\Repository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\Repository.cs*",
+              "ViewState": "AgIAALYAAAAAAAAAAAA2wNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:45.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicalSupplyRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\MedicalSupplyRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\MedicalSupplyRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\MedicalSupplyRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\MedicalSupplyRepository.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:43.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacultyRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\FacultyRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Persistence\\Repositories\\FacultyRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Persistence\\Repositories\\FacultyRepository.cs*",
+              "RelativeToolTip": "BELibrary\\Persistence\\Repositories\\FacultyRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:42.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Entity\\Category.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Category.cs",
+              "RelativeToolTip": "BELibrary\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Article.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Entity\\Article.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Entity\\Article.cs",
+              "RelativeToolTip": "BELibrary\\Entity\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PatientManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\DbContext\\PatientManagementDbContext.cs",
+              "RelativeDocumentMoniker": "BELibrary\\DbContext\\PatientManagementDbContext.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\DbContext\\PatientManagementDbContext.cs*",
+              "RelativeToolTip": "BELibrary\\DbContext\\PatientManagementDbContext.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwE4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:27.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CodeUtils.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\CodeUtils.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Utils\\CodeUtils.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Utils\\CodeUtils.cs",
+              "RelativeToolTip": "BELibrary\\Core.Utils\\CodeUtils.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAowIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:18.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Entity\\UnitOfWork.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\UnitOfWork.cs",
+              "RelativeToolTip": "BELibrary\\Core.Entity\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:15.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Entity\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "BELibrary\\Core.Entity\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:11.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Entity\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "BELibrary\\Core.Entity\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:54:21.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MovieCalendarGet.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarGet.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarGet.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarGet.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:53:59.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MovieCalendarDtoView.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarDtoView.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarDtoView.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarDtoView.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Models\\MovieCalendarDtoView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:53:58.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Models\\LoginModel.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:53:56.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StatisticalController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:53:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RecordController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\RecordController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:53:48.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:53:45.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:53:30.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PatientRecordController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientRecordController.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAowDsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:52:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAowAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:52:27.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:52:24.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MedicalSupplyController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\MedicalSupplyController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\MedicalSupplyController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\MedicalSupplyController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\MedicalSupplyController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:52:06.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:51:48.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AttachmentController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\AttachmentController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\AttachmentController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\AttachmentController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\AttachmentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:49:51.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:49:27.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FacultyController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\FacultyController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\FacultyController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\FacultyController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\FacultyController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAowJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:49:26.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DoctorScheduleController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\DoctorScheduleController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\DoctorScheduleController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\DoctorScheduleController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\DoctorScheduleController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwLQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:49:02.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:48:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:48:49.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:48:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:48:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:47:50.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAowFIBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:47:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PermissionAttribute.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Authorization\\PermissionAttribute.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Authorization\\PermissionAttribute.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Authorization\\PermissionAttribute.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Authorization\\PermissionAttribute.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:46:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CookiesManage.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Authorization\\CookiesManage.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Authorization\\CookiesManage.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Authorization\\CookiesManage.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Authorization\\CookiesManage.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:46:45.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "HospitalManagement\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:46:26.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "HospitalManagement\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:46:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IFacultyRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IFacultyRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Entity\\Repositories\\IFacultyRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IFacultyRepository.cs",
+              "RelativeToolTip": "BELibrary\\Core.Entity\\Repositories\\IFacultyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:45:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IDetailRecordRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IDetailRecordRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Entity\\Repositories\\IDetailRecordRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IDetailRecordRepository.cs",
+              "RelativeToolTip": "BELibrary\\Core.Entity\\Repositories\\IDetailRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:45:24.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IDetailPrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IDetailPrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Entity\\Repositories\\IDetailPrescriptionRepository.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\Repositories\\IDetailPrescriptionRepository.cs",
+              "RelativeToolTip": "BELibrary\\Core.Entity\\Repositories\\IDetailPrescriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:45:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "BELibrary\\Core.Entity\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\BELibrary\\Core.Entity\\IUnitOfWork.cs",
+              "RelativeToolTip": "BELibrary\\Core.Entity\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:45:19.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "HospitalManagement\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:43:11.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwKUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T16:41:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Web.config",
+              "RelativeDocumentMoniker": "HospitalManagement\\Web.config",
+              "ToolTip": "C:\\Thi cu\u1ED1i m\u00F4n\\webbb\\HospitalManagement\\Web.config",
+              "RelativeToolTip": "HospitalManagement\\Web.config",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-02T16:33:05.185Z",
               "EditorCaption": ""
             }
           ]
